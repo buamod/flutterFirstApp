@@ -8,4 +8,5 @@
          style="border: 10px solid #333; border-radius: 10px; margin-bottom: 10px" >
 </figure>
 
-<img src="https://github.com/buamod/flutterFirstApp/blob/master/demo.png" width="60%">
+#### Deployed on IOS and Android
+<img src="images/demo.png" width="50%">
